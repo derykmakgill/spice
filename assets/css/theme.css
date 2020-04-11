@@ -465,6 +465,7 @@ blockquote {
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
+    display: none;
 }
 @media (max-width:999px) {
 	.listfeaturedtag .wrapthumbnail, .listfeaturedtag .col-md-7 {
